@@ -1,10 +1,11 @@
 /*Bismillahir Rahmanir Rahim....*/
-#include <bits/stdc++.h>
+#include <random>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
 signed main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
 
     std::random_device rd;
     std::mt19937 gen(rd());
