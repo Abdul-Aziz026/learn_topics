@@ -3,4 +3,4 @@
 #pragma GCC target ("avx2")
 
 
-1.5 milisecond it passed <= 5e8 loops may be 
+1.5 millisecond it passed <= 5e8 loops may be 
